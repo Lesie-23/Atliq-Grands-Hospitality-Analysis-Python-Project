@@ -68,6 +68,16 @@ Delhi hotels received the highest average customer rating (3.78), whereas Bangal
 - Booking Platform Contribution:
 A significant share of revenue comes from “Others” (40.9%), followed by MakeMyTrip (19.8%), pointing to the potential to diversify platform strategies and reduce reliance on a single channel.
 
+# Recommendations
+
+- Fix weak properties & cities: Improve underperformers like AtliQ Seasons and Bangalore hotels.
+
+- Leverage high-demand periods: Use dynamic pricing and promotions on weekends and peak months.
+
+- Diversify booking channels: Reduce reliance on “Others” and expand OTA/direct bookings.
+
+- Enhance guest experience: Boost satisfaction in low-rated locations through service and amenities improvements.
+
 
   
 
